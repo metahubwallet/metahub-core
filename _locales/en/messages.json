@@ -1,0 +1,11 @@
+{
+
+   "appName": {
+      "description": "Extension name",
+      "message": "Metahub - Easy to use EOS wallet"
+   },
+   "appDesc": {
+      "description": "Extension description",
+      "message": "Compatible with the scatter protocol and more convenient and easy to use than scatter."
+   }
+}

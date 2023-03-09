@@ -1,0 +1,11 @@
+{
+
+   "appName": {
+      "description": "Extension name",
+      "message": "Metahub - EOS钱包"
+   },
+   "appDesc": {
+      "description": "Extension description",
+      "message": "EOS的插件钱包。"
+   }
+}
