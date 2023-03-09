@@ -111,7 +111,8 @@ export default {
   methods: {
     initTokens() {
       const tokens = [];
-      const chainTokens = this.allTokens[this.currentChain] || [];      for (const k in chainTokens) {
+      const chainTokens = this.allTokens[this.currentChain] || [];
+      for (const k in chainTokens) {
         const ct = chainTokens[k];
         if (ct.contract == 'eosio.token') {
           continue;
